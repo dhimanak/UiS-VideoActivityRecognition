@@ -1,0 +1,13 @@
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\bin\Debug\AWSDownloaderUtility.exe.config
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\bin\Debug\AWSDownloaderUtility.exe
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\bin\Debug\AWSDownloaderUtility.pdb
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\obj\Debug\AWSDownloaderUtility.csprojAssemblyReference.cache
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\obj\Debug\AWSDownloaderUtility.csproj.CoreCompileInputs.cache
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\obj\Debug\AWSDownloaderUtility.csproj.CopyComplete
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\obj\Debug\AWSDownloaderUtility.exe
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\obj\Debug\AWSDownloaderUtility.pdb
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\bin\Debug\Key\anil_uis.ppk
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\bin\Debug\Files\reference.json
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\bin\Debug\Newtonsoft.Json.dll
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\bin\Debug\Newtonsoft.Json.xml
+C:\Personal\uis\AWSDownloaderUtility\AWSDownloaderUtility\bin\Debug\MediaToolkit.dll
